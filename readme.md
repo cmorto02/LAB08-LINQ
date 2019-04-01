@@ -1,4 +1,4 @@
-# Numbers Game 
+# LINQ in Manhatten 
 
 ## Lab08 - LINQ
 
